@@ -1,8 +1,6 @@
 <div align="center">
 
-# ⚡ Armin Byrami
-
-### Power Electrical Engineer | Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=180&section=header&text=Armin%20Byrami&fontSize=42&fontColor=ffffff&desc=Power%20Electrical%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 من آرمین بیرامی متخصص و توسعه دهنده وب هستم، با استفاده از خلاقیت و کدنویسی پروژه‌های شما را انجام می‌دهم.
 
@@ -78,6 +76,19 @@ status:   Freelancing 💼 — open to full-time roles too
 
 - 🇮🇷 Persian — Native
 - 🇬🇧 English — ~30%
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Armin-wb&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armin-wb&layout=compact&theme=radical&hide_border=true" width="35%"/>
+
+<img src="https://streak-stats.demolab.com?user=Armin-wb&theme=radical&hide_border=true" width="70%"/>
+
+</div>
 
 <br>
 
