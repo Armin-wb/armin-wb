@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=180&section=header&text=Armin%20Byrami&fontSize=42&fontColor=ffffff&desc=Power%20Electrical%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Armin%20Byrami&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Power%20Electrical%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 من آرمین بیرامی متخصص و توسعه دهنده وب هستم، با استفاده از خلاقیت و کدنویسی پروژه‌های شما را انجام می‌دهم.
 
@@ -83,10 +83,16 @@ status:   Freelancing 💼 — open to full-time roles too
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Armin-wb&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armin-wb&layout=compact&theme=radical&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Armin-wb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armin-wb&layout=pie&theme=radical&hide_border=true" width="35%"/>
+
+<br>
 
 <img src="https://streak-stats.demolab.com?user=Armin-wb&theme=radical&hide_border=true" width="70%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Armin-wb&theme=radical&hide_border=true&area=true" width="95%"/>
 
 </div>
 
