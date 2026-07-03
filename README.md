@@ -24,7 +24,7 @@
 [![amzino.ir](https://img.shields.io/badge/MY.AMZINO.IR_→-1a9c5c?style=for-the-badge)](https://my.amzino.ir/#contact)
 
 <a href="https://my.amzino.ir/#contact">
-  <img src="portfolio-preview.png" width="90%" alt="Live preview of my.amzino.ir"/>
+  <img src="portfolio-preview.png.jpg" width="90%" alt="Live preview of my.amzino.ir"/>
 </a>
 
 ⚡ *Smooth animations · Pixel-perfect UI · Built to impress*
