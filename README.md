@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Armin%20Byrami&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Power%20Electrical%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-من آرمین بیرامی متخصص و توسعه دهنده وب هستم، با استفاده از خلاقیت و کدنویسی پروژه‌های شما را انجام می‌دهم.
+من آرمین بیرامی، متخصص برق و توسعه‌دهنده وب هستم؛ با استفاده از خلاقیت و کدنویسی، پروژه‌های شما را انجام می‌دهم.
 
 📍 Hamedan, Iran &nbsp;•&nbsp; 🎂 18 years old &nbsp;•&nbsp; 🟢 Freelance & open to work
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## 👋 About Me
+## ⚡ About Me
 
 ```yaml
 name:     Armin Byrami
@@ -68,7 +68,7 @@ status:   Freelancing 💼 — open to full-time roles too
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-> Currently diving deeper into the JS & PHP web frameworks ecosystem.
+> در حال یادگیری عمیق‌تر اکوسیستم فریم‌ورک‌های JS و PHP هستم.
 
 <br>
 
@@ -109,5 +109,9 @@ status:   Freelancing 💼 — open to full-time roles too
 <div align="center">
 
 💼 **Available for freelance projects — also open to full-time offers**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
