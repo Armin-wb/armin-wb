@@ -8,9 +8,26 @@
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Building+clean+%26+modern+websites;Power+Electrical+Engineer;Full-Stack+Developer;Freelancer+%7C+Open+to+work" alt="Typing SVG" />
+
+<br>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armynbyramy715@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ARMIN_wb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-birami-1a6191338)
+
+<br>
+
+👇 **Don't just read — come see what I build**
+
+[![Live Portfolio](https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-2c5364?style=for-the-badge)](https://my.amzino.ir/#contact)
+[![amzino.ir](https://img.shields.io/badge/MY.AMZINO.IR_→-1a9c5c?style=for-the-badge)](https://my.amzino.ir/#contact)
+
+<a href="https://my.amzino.ir/#contact">
+  <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fmy.amzino.ir%2F%23contact?w=1000" width="90%" alt="Live preview of my.amzino.ir"/>
+</a>
+
+⚡ *Smooth animations · Pixel-perfect UI · Built to impress*
 
 </div>
 
