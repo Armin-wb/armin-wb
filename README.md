@@ -20,10 +20,10 @@
 
 👇 **Don't just read — come see what I build**
 
-[![Live Portfolio](https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-2c5364?style=for-the-badge)](https://my.amzino.ir/#contact)
-[![amzino.ir](https://img.shields.io/badge/MY.AMZINO.IR_→-1a9c5c?style=for-the-badge)](https://my.amzino.ir/#contact)
+[![Live Portfolio](https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-2c5364?style=for-the-badge)](https://my.amzino.ir)
+[![amzino.ir](https://img.shields.io/badge/MY.AMZINO.IR_→-1a9c5c?style=for-the-badge)](https://my.amzino.ir)
 
-<a href="https://my.amzino.ir/#contact">
+<a href="https://my.amzino.ir">
   <img src="portfolio-preview.png.jpg" width="450" alt="Live preview of my.amzino.ir"/>
 </a>
 
